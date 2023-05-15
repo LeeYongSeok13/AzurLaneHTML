@@ -1,0 +1,17 @@
+header {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+header nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+header nav img {
+    width: 150px;
+}
+
+header nav ul {
+    display: flex;
+}
